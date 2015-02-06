@@ -1,0 +1,65 @@
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2014 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Synthview Type Design
+ * License URL: http://www.fontspring.com/licenses/synthview/webfont
+ *
+ *
+ */
+@font-face {
+  font-family: 'Novecento Sans Wide';
+  src: url('fonts/Light/Novecentosanswide-Light-webfont.eot');
+  src: url('fonts/Light/Novecentosanswide-Light-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/Light/Novecentosanswide-Light-webfont.woff2') format('woff2'), url('fonts/Light/Novecentosanswide-Light-webfont.woff') format('woff'), url('fonts/Light/Novecentosanswide-Light-webfont.ttf') format('truetype'), url('fonts/Light/Novecentosanswide-Light-webfont.svg#novecento_sans_widelight') format('svg');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Novecento Sans Wide';
+  src: url('fonts/Book/Novecentosanswide-Book-webfont.eot');
+  src: url('fonts/Book/Novecentosanswide-Book-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/Book/Novecentosanswide-Book-webfont.woff2') format('woff2'), url('fonts/Book/Novecentosanswide-Book-webfont.woff') format('woff'), url('fonts/Book/Novecentosanswide-Book-webfont.ttf') format('truetype'), url('fonts/Book/Novecentosanswide-Book-webfont.svg#novecento_sans_wide_bookbold') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Novecento Sans Wide';
+  src: url('fonts/Regular/Novecentosanswide-Normal-webfont.eot');
+  src: url('fonts/Regular/Novecentosanswide-Normal-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/Regular/Novecentosanswide-Normal-webfont.woff2') format('woff2'), url('fonts/Regular/Novecentosanswide-Normal-webfont.woff') format('woff'), url('fonts/Regular/Novecentosanswide-Normal-webfont.ttf') format('truetype'), url('fonts/Regular/Novecentosanswide-Normal-webfont.svg#novecento_sans_widenormal') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Novecento Sans Wide';
+  src: url('fonts/Medium/Novecentosanswide-Medium-webfont.eot');
+  src: url('fonts/Medium/Novecentosanswide-Medium-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/Medium/Novecentosanswide-Medium-webfont.woff2') format('woff2'), url('fonts/Medium/Novecentosanswide-Medium-webfont.woff') format('woff'), url('fonts/Medium/Novecentosanswide-Medium-webfont.ttf') format('truetype'), url('fonts/Medium/Novecentosanswide-Medium-webfont.svg#novecento_sans_widemedium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Novecento Sans Wide';
+  src: url('fonts/DemiBold/Novecentosanswide-DemiBold-webfont.eot');
+  src: url('fonts/DemiBold/Novecentosanswide-DemiBold-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/DemiBold/Novecentosanswide-DemiBold-webfont.woff2') format('woff2'), url('fonts/DemiBold/Novecentosanswide-DemiBold-webfont.woff') format('woff'), url('fonts/DemiBold/Novecentosanswide-DemiBold-webfont.ttf') format('truetype'), url('fonts/DemiBold/Novecentosanswide-DemiBold-webfont.svg#novecento_sans_wide_bookbold') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Novecento Sans Wide';
+  src: url('fonts/Bold/Novecentosanswide-Bold-webfont.eot');
+  src: url('fonts/Bold/Novecentosanswide-Bold-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/Bold/Novecentosanswide-Bold-webfont.woff2') format('woff2'), url('fonts/Bold/Novecentosanswide-Bold-webfont.woff') format('woff'), url('fonts/Bold/Novecentosanswide-Bold-webfont.ttf') format('truetype'), url('fonts/Bold/Novecentosanswide-Bold-webfont.svg#novecento_sans_wide_bookbold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
