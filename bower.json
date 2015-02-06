@@ -5,9 +5,9 @@
     "Joaquín Rivero <jq.rivero@gmail.com>"
   ],
   "description": "The Novecento Wide Font",
-  "main": "./novecento-wide.css",
-  "moduleType": [
-    "globals"
+  "main": [
+    "./novecento-wide.css",
+    "./fonts/**/*"
   ],
   "keywords": [
     "Font"
